@@ -1,0 +1,8 @@
+name: Rate
+main: com.ConorGrocock.src.RatePlugin
+version: 1.0
+description: >
+             Plugin used to allow admins to rate players buildings
+commands:
+  rateme:
+    description: RATEME!
